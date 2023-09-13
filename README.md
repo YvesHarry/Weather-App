@@ -49,5 +49,5 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 * Server-Side API - OpenWeather API
 
 ## License
- 
+  
   Licensed under the [MIT](LICENSE) license.
