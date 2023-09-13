@@ -1,7 +1,5 @@
 # Weather Dashboard
 
-![License Badge](https://img.shields.io/github/license/mmeii/weather-dashboard) ![Top Language](https://img.shields.io/github/languages/top/mmeii/weather-dashboard)
-
 This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
 
 [OpenWeather API](https://openweathermap.org/api) is used to retrieve weather data for cities. And `localStorage` is used to store persistent data.
@@ -50,17 +48,6 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 * Moment.js
 * Server-Side API - OpenWeather API
 
-## Demo
-
-![Weather Dashboard Demo](Assets/weather-dashboard-demo.gif)
-
-## Websites
-
-* [Github](https://github.com/mmeii/weather-dashboard)
-* [Deployed](https://mmeii.github.io/weather-dashboard/)
-
 ## License
-
-  Copyright (c) Mengmei Tu. All rights reserved.
-  
+ 
   Licensed under the [MIT](LICENSE) license.
